@@ -1,0 +1,9 @@
+name: EndBattle
+version: '1.0'
+main: com.endBattle.EndBattle
+api-version: '1.21'
+authors: [ zhenshicai ]
+commands:
+  enter:
+  start:
+  end:
