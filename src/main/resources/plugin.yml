@@ -1,0 +1,23 @@
+name: EndBattle
+version: '1.0'
+main: com.endBattle.EndBattle
+api-version: '1.21'
+description: '终末之战插件'
+author: 'zhenshicai'
+commands:
+  shop:
+    description: 打开商店界面
+    usage: /<command>
+    aliases: [商店]
+  start:
+    description: 管理员开始游戏
+    usage: /<command>
+    aliases: [开始]
+  enter:
+    description: 玩家进入游戏
+    usage: /<command>
+    aliases: [进入]
+  end:
+    description: 管理员结束游戏
+    usage: /<command>
+    aliases: [结束]
